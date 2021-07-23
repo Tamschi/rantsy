@@ -1,4 +1,4 @@
-# TODO_CRATE_NAME Changelog
+# rantsy Changelog
 
 <!-- markdownlint-disable no-trailing-punctuation -->
 
