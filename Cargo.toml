@@ -37,5 +37,5 @@ version-sync = "0.9.1"
 wasm-bindgen-test = "0.3.26"
 
 [dependencies]
-rant = "4.0.0-alpha.22"
+rant = "4.0.0-alpha.23"
 tap = "1.0.1"
